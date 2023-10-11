@@ -1,10 +1,10 @@
 # mobile_app_development_assignment_3_scenario_4_architectural_decisions
 #Scenario 4 Architectural Decisions
 
-##Overview
+## Overview
 This repository contains a collection of decision records (ADRs - Architecture Decision Records) that document the architectural decisions made during the development of our Transportation Company App. These records serve as a valuable resource for understanding the reasoning behind significant choices in the app's architecture and design.
 
-##Table of Contents
+## Table of Contents
 1. App Type
 2. UI Framework
 3. Backend Language
