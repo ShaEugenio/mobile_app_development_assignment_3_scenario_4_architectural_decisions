@@ -9,7 +9,7 @@ We are deciding whether to create a hybrid, online, or native app for our transp
 ## Decision
 We have decided to create a native mobile application.
 
-## Consequences
+## Consequences/Rationale
 Users can be guaranteed high iOS and Android performance by choosing a native mobile app. However, this choice requires the creation and management of distinct codes for each platform. Nevertheless, it remains the best option due to the fact that the majority of our audience relies on mobile devices. This approach will enhance engagement and satisfaction among users as it caters to their platform preferences effectively.
 
 Decision record template by Michael Nygard
